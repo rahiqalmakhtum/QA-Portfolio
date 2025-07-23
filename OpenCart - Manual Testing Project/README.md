@@ -19,7 +19,7 @@ This repository contains manual testing documentation for the [OpenCart Demo Sto
 
 | Module                    | Status |
 | --------------------------|--------|
-| 🔐 Login & Authentication | ✅ Completed |
+| 🔐 Login  | ✅ Completed |
 | 📝 Registration           | 🔄 In Progress |
 | 🛒 Shopping Cart          | 🔄 Planned |
 | 💳 Checkout               | 🔄 Planned |
