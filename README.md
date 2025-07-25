@@ -9,8 +9,9 @@ A curated collection of manual testing artifacts for real-world web applications
 ### 🔹 OpenCart – Manual Testing
 🛍️ E-commerce site tested for core flows like login, registration, cart, and checkout.
 
-- ✅ Login & Authentication – Completed  
-- 🔄 Registration – In Progress  
+- ✅ Login – Completed  
+- ✅ Registration – In Progress
+- 🔄 Forgot Password - In Progress
 - 🕒 Other modules – Planned
 
 📄 Files:
