@@ -10,7 +10,7 @@ A curated collection of manual testing artifacts for real-world web applications
 🛍️ E-commerce site tested for core flows like login, registration, cart, and checkout.
 
 - ✅ Login – Completed  
-- ✅ Registration – In Progress
+- ✅ Registration – Compplete
 - 🔄 Forgot Password - In Progress
 - 🕒 Other modules – Planned
 
