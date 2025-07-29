@@ -32,8 +32,10 @@ This repository contains manual testing documentation for the [OpenCart Demo Sto
 ## 📁 Folder Structure
 
 - 📁 `OpenCart-Manual-Testing/`
-  - 📊 `OpenCart_Test_Cases.xlsx` – 🔄 In Progress
+  - 📊 `OpenCart-Test_Cases.xlsx` – 🔄 In Progress
     - Sheet: ✅ Test Scenarios – Completed
+    - Sheet: 🔄 Test Cases – In Progress
+  - 📊 `OpenCart-Test_Execution.xlsx` – 🔄 In Progress
     - Sheet: 🔄 Test Cases – In Progress
   - 🐞 `Bug_Reports_OpenCart.xlsx` – ⏳ Pending (after test execution)
   - 📌 `RTM_OpenCart.xlsx` – 🕒 Planned
