@@ -1,10 +1,32 @@
 # 🧪 QA Portfolio – Manual/Automation Testing Projects
 
-A curated collection of manual testing artifacts for real-world web applications.
+A curated collection of manual testing artefacts for real-world web applications.
 
 ---
 
 ## 📂 Projects Included
+
+### 🔹 Hishabee Mobile App – Manual Testing
+📱 Business management app tested for sales, inventory, and due tracking functionalities.
+
+**Testing Focus Areas:**  
+🎯 **Sell Module**   
+✅ Quick Sell   
+✅ Add Product 
+✅ Add to Cart 
+✅ Confirm Payment 
+
+🎯 **Due Module** 
+✅ Due Money 
+✅ Due History   
+✅ Search Due 
+
+⏭️ *Other modules (Inventory, Reports) - Planned for future testing*  
+
+📄 **Files**:  
+[Hishabee_Mobile_App_Test_Cases.xlsx](link-to-file)  
+- 59 test cases across 8 test scenarios  
+- Detailed preconditions/expected results  
 
 ### 🔹 OpenCart – Manual Testing
 🛍️ E-commerce site tested for core flows like login, registration, cart, and checkout.
