@@ -25,7 +25,7 @@ A curated collection of manual testing artefacts for real-world web applications
 
 📄 **Files**:  
 [Hishabee_Mobile_App_Test_Cases.xlsx](link-to-file)  
-- 59 test cases across 8 test scenarios  
+- 65 test cases across 8 test scenarios  
 - Detailed preconditions/expected results  
 
 ### 🔹 OpenCart – Manual Testing
