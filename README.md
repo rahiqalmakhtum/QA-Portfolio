@@ -1,6 +1,6 @@
 # 🧪 QA Portfolio – Manual/Automation Testing Projects
 
-A curated collection of manual testing artefacts for real-world web applications.
+A collection of manual testing artefacts for real-world web & mobile applications.
 
 ---
 
