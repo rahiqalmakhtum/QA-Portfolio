@@ -28,6 +28,8 @@ A curated collection of manual testing artefacts for real-world web applications
 - 65 test cases across 8 test scenarios  
 - Detailed preconditions/expected results  
 
+---
+
 ### 🔹 OpenCart – Manual Testing
 🛍️ E-commerce site tested for core flows like login, registration, cart, and checkout.
 
